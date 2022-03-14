@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @OnahPmi
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP, Python 
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, Python 
-- 💞️ I’m looking to collaborate on teams to build innovative programs that can reshape and better how certain things are done.
+- 👀 I’m interested in Python, Machine Learning and Bioinformatics
+- 💞️ I’m looking to collaborate on teams to build innovative programs that can reshape and better how certain things are done, especially a Bioinformatics project
 - 📫 How to reach me onahemma111@gmail.com
 
 <!---
