@@ -14,9 +14,12 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9641908/
 Ibezim A, **Onah E**, Dim EN, Ntie-Kang F. A computational multi-targeting approach for drug repositioning for psoriasis treatment. BMC Complement Med Ther. 2021;21(1): 193. doi:10.1186/s12906-021-03359-2.   
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8258956/
 
+**Onah, E.**, Ugwoke, I., Eze, U., Eze, H., Musa, S., Ndiana-Abasi, S., Okoli, O., Ekeh, I., & Edet, A. (2021). Search for Structural Scaffolds Against SARS-COV-2 Mpro: An In Silico Study. Journal of Fundamental and Applied Sciences, 13(2), 740-769. 
+https://jfas.info/index.php/JFAS/article/view/987.   
+
+## You can check out my HIV1-LogRex Webserver [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hiv-1-logrex.streamlit.app/)
+
 <!---
 OnahPmi/OnahPmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-## You can check out my HIV1-LogRex Webserver [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hiv-1-logrex.streamlit.app/)
