@@ -19,8 +19,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8258956/
 
 **Onah, E.**, Ugwoke, I., Eze, U., Eze, H., Musa, S., Ndiana-Abasi, S., Okoli, O., Ekeh, I., & Edet, A. (2021). Search for Structural Scaffolds Against SARS-COV-2 Mpro: An In Silico Study. Journal of Fundamental and Applied Sciences, 13(2), 740-769. 
 https://jfas.info/index.php/JFAS/article/view/987.   
-
-## You can check out my HIV1-LogRex Webserver [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hiv-1-logrex.streamlit.app/)
+# Projects
+1. ## HIV1-LogRex Webserver (You can check out my HIV1-LogRex Webserver [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hiv-1-logrex.streamlit.app/))
+2. ## ChemFetchTool
 
 <!---
 OnahPmi/OnahPmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
