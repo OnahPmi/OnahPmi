@@ -20,8 +20,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8258956/
 **Onah, E.**, Ugwoke, I., Eze, U., Eze, H., Musa, S., Ndiana-Abasi, S., Okoli, O., Ekeh, I., & Edet, A. (2021). Search for Structural Scaffolds Against SARS-COV-2 Mpro: An In Silico Study. Journal of Fundamental and Applied Sciences, 13(2), 740-769. 
 https://jfas.info/index.php/JFAS/article/view/987.   
 # Projects
-1. ## HIV1-LogRex Webserver (Link ⟶ [HIV1-LogRex Webserver](https://hiv-1-logrex.streamlit.app/))
-2. ## ChemFetchTool (Link ⟶ [ChemFetchTool](https://chemfetchtool.streamlit.app/))
+1. ## ChemFetchTool (Link ⟶ [ChemFetchTool](https://chemfetchtool.streamlit.app/))
+2. ## HIV1-LogRex Webserver (Link ⟶ [HIV1-LogRex Webserver](https://hiv-1-logrex.streamlit.app/))
+
 
 <!--- ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg) --->
 
