@@ -8,8 +8,7 @@ Google Scholar Link: https://scholar.google.com/citations?view_op=list_works&hl=
 Research Gate Link: https://www.researchgate.net/profile/Emmanuel-Onah-4  
 
 # Publications
-Ibezim A, **Onah E**, Osigwe SC, Okoroafor PU, Ukoha OP, De Siqueira-Neto JL, Ntie-Kang F and Ramanathan, K. Potential Dual Inhibitors of Hexokinases and Mitochondrial Complex I Discovered Through Machine Learning Approach. Available at SSRN:   
-[https://dx.doi.org/10.2139/ssrn.4635544](https://dx.doi.org/10.2139/ssrn.4635544)
+Ibezim A, **Onah E**, Osigwe SC, Okoroafor PU, Ukoha OP, de Siqueira-Neto JL, Ntie-Kang F, & Ramanathan K. (2024). Potential dual inhibitors of Hexokinases and mitochondrial complex I discovered through machine learning approach. Scientific African, 24, e02226. https://doi.org/10.1016/j.sciaf.2024.e02226. 
 
 **Onah E**, Uzor PF, Ugwoke IC, et al. Prediction of HIV-1 protease cleavage site from octapeptide sequence information using selected classifiers and hybrid descriptors. BMC Bioinformatics. 2022;23(1):466. doi:10.1186/s12859-022-05017-x.   
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9641908/
