@@ -9,7 +9,7 @@ Research Gate Link: https://www.researchgate.net/profile/Emmanuel-Onah-4
 
 # Publications
 
-**Onah E** Eze UJ, Abdulraheem AS, Ezigbo UG, Amorha KC (2024). Optimizing Unsupervised Feature Engineering and Predictive Models for Thyroid Cancer Recurrence Prediction. Preprints 2024, 2024092121. https://doi.org/10.20944/preprints202409.2121.v1
+**Onah E**, Eze UJ, Abdulraheem AS, Ezigbo UG, Amorha KC (2024). Optimizing Unsupervised Feature Engineering and Predictive Models for Thyroid Cancer Recurrence Prediction. Preprints 2024, 2024092121. https://doi.org/10.20944/preprints202409.2121.v1
 
 Ibezim A, **Onah E**, Osigwe SC, Okoroafor PU, Ukoha OP, de Siqueira-Neto JL, Ntie-Kang F, & Ramanathan K. (2024). Potential dual inhibitors of Hexokinases and mitochondrial complex I discovered through machine learning approach. Scientific African, 24, e02226.  
 https://doi.org/10.1016/j.sciaf.2024.e02226. 
