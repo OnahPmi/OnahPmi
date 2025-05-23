@@ -9,7 +9,7 @@ Research Gate Link: https://www.researchgate.net/profile/Emmanuel-Onah-4
 
 # Publications
 
-**Onah, E.**, Eze U. J., Abdulraheem, A. S., Ezigbo, U. G., Amorha, K. C., & Ntie-Kang, F. (2025). Optimizing unsupervised feature engineering and classification pipelines for differentiated thyroid cancer recurrence prediction. BMC medical informatics and decision making, 25(1), 182. https://doi.org/10.1186/s12911-025-03018-3    
+**Onah, E.**, Eze U. J., Abdulraheem, A. S., Ezigbo, U. G., Amorha, K. C., & Ntie-Kang, F. (2025). Optimizing unsupervised feature engineering and classification pipelines for differentiated thyroid cancer recurrence prediction. BMC medical informatics and decision making, 25(1), 182. doi: 10.1186/s12911-025-03018-3    
 https://pmc.ncbi.nlm.nih.gov/articles/PMC12070754/
 
 Ibezim A, **Onah E**, Osigwe SC, Okoroafor PU, Ukoha OP, de Siqueira-Neto JL, Ntie-Kang F, & Ramanathan K. (2024). Potential dual inhibitors of Hexokinases and mitochondrial complex I discovered through machine learning approach. Scientific African, 24, e02226.  
